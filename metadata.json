@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Course Architect",
+  "description": "An AI-powered application that generates complete, structured educational courses in minutes. Users can define a topic, objectives, and audience, and Gemini will create a course plan. The app features a 'human-in-the-loop' review process, allowing users to approve or request revisions at each stage, from the initial plan to the final content generation.",
+  "requestFramePermissions": []
+}
